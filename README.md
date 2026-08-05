@@ -1,6 +1,6 @@
 # rfsd-analysis
 Репозиторий:https://github.com/ksssssssssssss/rfsd-analysis
-
+(я не понял, что нужно прикреплять сюда,а что на гитхаб.Поэтому работу прикрепил везде)
 Источники:
 
 Датасет:https://huggingface.co/datasets/irlspbru/RFSD
